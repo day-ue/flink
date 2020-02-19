@@ -1,2 +1,2 @@
 # flink
-个人flink的小demo
+存放个人学习的小demo
